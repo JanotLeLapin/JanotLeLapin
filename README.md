@@ -2,10 +2,6 @@
   <br/>
   <h1>Welcome 👋</h1>
   <p>This is my Github page where I put all sorts of things</p>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=JanotLeLapin&theme=tokyonight&hide_border=true&border_radius=12&count_private=true&show_icons=true&custom_title=My%20Github%20Stats" alt="My Github Stats" />
-  <br/>
-  <br/>
   <div>
     <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=white&style=for-the-badge" alt="ArchLinux" />
     <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
